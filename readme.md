@@ -4,11 +4,11 @@ Rokot - [Rocketmakers](http://www.rocketmakers.com/) TypeScript NodeJs Platform
 
 ## Introduction
 
-> A typescript based set of components and services for nodejs applications
+> A set of components and services written in typescript, for nodejs applications
 
 This repository is intended to bring together the suite of components being developed.
 
->The Rokot platform components heavily rely on usage of the [typings]
+The platform is regularly upgraded to support latest dependencies and utilise latest features of typescript
 
 ## Components
 
@@ -30,11 +30,8 @@ Notification Services - GCM, APNS, Email (SendGrid)
 ### [rokot-test](https://github.com/Rocketmakers/rokot-test)
 The testing framework
 
-### [rokot-upload-backend](https://github.com/Rocketmakers/rokot-upload-backend)
-Upload Backend Services
-
-### [rokot-upload-frontend](https://github.com/Rocketmakers/rokot-upload-frontend)
-Upload Frontend React HOC
+### [rokot-upload-backend + rokot-upload-frontend](https://github.com/Rocketmakers/rokot-upload)
+Upload Services and React HOC
 
 ### [rokot-validate](https://github.com/Rocketmakers/rokot-validate)
 Validation using Validate.Js
